@@ -39,6 +39,6 @@ package academic.model;
     }
 
     public String getEnrollmentDetails() {
-        return courseId + "|" + studentId + "|" + semester + "|" + grade;
+        return courseId + "|" + studentId + "|" + semester + "|" + grade + "|none";
     }
 }

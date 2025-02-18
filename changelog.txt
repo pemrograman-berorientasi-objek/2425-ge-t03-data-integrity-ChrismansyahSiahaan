@@ -18,7 +18,6 @@ enrollment-add#12S2203#12S20111#2020/2021#even
 12S2203|12S20111|2020/2021|even|None
 
 
-
  "name": "t03-01-02",
 
  "input": "
